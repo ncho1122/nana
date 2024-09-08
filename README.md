@@ -19,7 +19,6 @@
             <section>
                 <h2></h2>
                 <p>ajarin cari pacar dek.</p>
-                <p>tulisan nya kurang besar gak sih kalau di hp?.</p>
                 <img src="https://i.pinimg.com/736x/53/6c/70/536c70dacd58b665896c0e70e1b52d2a.jpg" alt="" width="300">
                 <img src="https://i.pinimg.com/564x/e0/87/43/e08743eab76d2fd2174349b6e7beb223.jpg" alt="" width="320">
             </section>
